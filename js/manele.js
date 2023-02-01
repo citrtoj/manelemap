@@ -78,8 +78,8 @@ const json = {
 			"long": "19.819025"
 		},
 		{
-			"nume": "Fița Bucureștiului",
-			"src": "https://open.spotify.com/embed/track/28Mk8oSpRNxpp3mjfBf860?utm_source=generator",
+			"nume": "Țigancă de București",
+			"src": "https://open.spotify.com/embed/track/3bVBGChrqnNOHADKIDVdxC?utm_source=generator",
 			"lat": "44.439663",
 			"long": "26.096306"
 		},
@@ -88,6 +88,42 @@ const json = {
 			"src": "https://open.spotify.com/embed/track/64SnkjtcZRLD68kuhz8cNa?utm_source=generator",
 			"lat": "28.291565",
 			"long": "-16.629129"
+		},
+		{
+			"nume": "Pustoaica de Dorobanti",
+			"src": "https://open.spotify.com/embed/track/16bFBWXVR6gjSDv7jmkBrd?utm_source=generator",
+			"lat": "44.460104",
+			"long": "26.094407"
+		},
+		{
+			"nume": "Nasa",
+			"src": "https://open.spotify.com/embed/track/0c0zAVmYCZ83Iq5CjeyIGH?utm_source=generator",
+			"lat": "38.88318180235269",
+			"long": "-77.01627860248375"
+		},
+		{
+			"nume": "Havana",
+			"src": "https://open.spotify.com/embed/track/4i9Ul89UPf5YPppdOspCH6?utm_source=generator",
+			"lat": "23.113592",
+			"long": "-82.366592"
+		},
+		{
+			"nume": "O Noapte in Medellin",
+			"src": "https://open.spotify.com/embed/track/3GnaBdypJyLiVMMfAe6J7L?utm_source=generator",
+			"lat": "6.230833",
+			"long": "-75.590553"
+		},
+		{
+			"nume": "Te duc la Cancun",
+			"src": "https://open.spotify.com/embed/track/7j8THwH1Yul1MPAi2NQTlQ?utm_source=generator",
+			"lat": "21.161908",
+			"long": "-86.851528"
+		},
+		{
+			"nume": "Susținem Ucraina",
+			"src": "https://open.spotify.com/embed/track/1pz0PbBAD4TMqeiiyHvd9f?utm_source=generator",
+			"lat": "50.450001",
+			"long": "30.523333"
 		},
 		{
 			"nume": "Zeita Din Olimp",
