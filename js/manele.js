@@ -126,6 +126,12 @@ const json = {
 			"long": "30.523333"
 		},
 		{
+			"nume": "In Bar La Viena",
+			"src": "https://open.spotify.com/embed/track/29hxCmk6hWVmUsMexXPOy8?utm_source=generator",
+			"lat": "48.210033",
+			"long": "16.363449"
+		},
+		{
 			"nume": "Zeita Din Olimp",
 			"src": "https://open.spotify.com/embed/track/2ghUBp3ca86sRY6ojWVe07?utm_source=generator",
 			"lat": "40.085567",
@@ -250,6 +256,12 @@ const json = {
 			"src": "https://open.spotify.com/embed/track/58smKEWfBOFQW3AGSdb7YQ?utm_source=generator",
 			"lat": "51.507359",
 			"long": "-0.136439"
+		},
+		{
+			"nume": "Mergem in Dominicana",
+			"src": "https://open.spotify.com/embed/track/41JiPTEflgkzyhaglRq1Mq?utm_source=generator",
+			"lat": "18.483402",
+			"long": "-69.929611"
 		}
 	]
 }
