@@ -262,6 +262,12 @@ const json = {
 			"src": "https://open.spotify.com/embed/track/41JiPTEflgkzyhaglRq1Mq?utm_source=generator",
 			"lat": "18.483402",
 			"long": "-69.929611"
+		},
+		{
+			"nume": "Monte Carlo",
+			"src": "https://open.spotify.com/embed/track/1VBy3LUtCuu7j2ftUWVx7U?utm_source=generator",
+			"lat": "43.740070",
+			"long": "7.426644"
 		}
 	]
 }
